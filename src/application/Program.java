@@ -38,10 +38,6 @@ public class Program {
             System.out.println(sdf.format(i.getDate())+" - "+ String.format("%.2f",i.getValue()));
         }
 
-
-
-
-
         sc.close();
     }
 }
